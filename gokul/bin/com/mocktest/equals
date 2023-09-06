@@ -1,0 +1,7 @@
+== is considered an operator in Java.	
+.equals is considered as a method in Java.
+
+
+== is majorly used to compare the reference values and objects.	
+
+.equals is used to compare the actual content of the object.

@@ -1,0 +1,17 @@
+how jvm will work internally
+
+
+
+ANSWER:
+
+Loading: JVM loads Java bytecode (compiled .class files) into its memory.
+
+Verifying: It verifies the bytecode to ensure it meets security and structural requirements.
+
+Executing: JVM interprets the bytecode line by line or uses Just-In-Time (JIT) compilation to convert bytecode into native machine code for improved performance.
+
+Memory Management: JVM manages memory allocation for objects and uses garbage collection to reclaim unused memory.
+
+Runtime Environment: It provides runtime support for various Java features like exception handling, multi-threading, and dynamic class loading.
+
+Platform Independence: JVM abstracts the underlying hardware and operating system, allowing Java programs to run on any platform without modification.

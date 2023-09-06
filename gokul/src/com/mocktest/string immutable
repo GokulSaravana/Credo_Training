@@ -1,0 +1,4 @@
+Why String is immutable?
+
+String is immutable in Java to ensure that once a String object is created, 
+its value cannot be changed, which helps in various optimizations and thread safety.
